@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello! 👋
 
-<!--
-**jkazimierczak/jkazimierczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd year Computer Science student at Technical University of Łódź, with a passion about web development and automating mundane tasks. While I am not engrossed in studying, I dedicate my time to working on my personal projects.
 
-Here are some ideas to get you started:
+I see every project as an opportunity to learn new skills and experiences. I am constantly seeking a way to make my solutions modern and robust. I believe that well-designed apps, tailored to the target users needs, are a key to gaining and retaining a potential customers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I work with:
+- React.js
+- Redux.js (Toolkit)
+- TypeScript
+- Tailwind CSS
+- Figma
+- Git, GitHub
+- Python
