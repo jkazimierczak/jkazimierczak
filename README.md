@@ -1,6 +1,6 @@
 Hello! 👋
 
-I'm a 3rd year Computer Science student at Technical University of Łódź. I'm fascinated with webdev, webscraping and occasional scripting in python.
+I am a person, who has explored various fields of IT over the past decade, with a focus on programming for the last 5 years. In 2020, I achieved the finalist position in the Technical Innovation Olympiad. My experience has led me to take roles of an architect or team lead in university projects.
 
 Technologies I work with:
 
